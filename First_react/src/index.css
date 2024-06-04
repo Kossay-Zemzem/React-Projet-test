@@ -31,8 +31,9 @@ body {
 }
 
 h1 {
-  font-size: 3.2em;
+  font-size: 7em;
   line-height: 1.1;
+  
 }
 
 button {
@@ -65,4 +66,17 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+.box{
+  width: 350px ;
+  height:100% ;
+  color: aliceblue ;
+  border: 5px black solid ;
+  margin:auto ;
+  margin-bottom: 10px ;
+}
+#box1{
+  
+  background-color: brown;
+  padding: 16px;
 }
